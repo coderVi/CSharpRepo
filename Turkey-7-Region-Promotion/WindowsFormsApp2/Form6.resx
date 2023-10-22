@@ -1,0 +1,242 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="pictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+        AAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="textBox1.Text" xml:space="preserve">
+    <value>Doğu Anadolu Bölgesi, Türkiye'nin yedi coğrafi bölgesinden biridir. Anadolu topraklarındaki konumunda doğuda yer alması nedeniyle Birinci Coğrafya Kongresi tarafından 1941 yılında böyle isimlendirilmiştir. Ülkenin, nüfus yoğunluğu ve nüfusu en az olan bölgesidir. Bunda bölgenin yüzölçümünün büyük olması başlıca etkilerindendir.
+
+Doğu Anadolu Bölgesinin yüzölçümü 164.000 km²'dir. Yüzölçümü bakımından Türkiye topraklarının %21′ini kaplar[1]. 2021 yılındaki nüfus sayımına göre bölgenin nüfusu 6.513.106 kişidir. Nüfus bakımından en büyük il Van, yüzölçümü bakımından en büyük il Erzurum'dur. Başlıca geçim kaynakları hayvancılık ve tarımcılıktır.
+
+Doğu Anadolu Bölgesi'nde dört bölüm vardır:
+
+Erzurum-Kars Bölümü
+Yukarı Fırat Bölümü
+Yukarı Murat-Van Bölümü
+Hakkâri Bölümü
+Coğrafya
+Ovalar
+Birinci çöküntü kuşağını; Ardahan, Göle ve Çıldır Gölü
+İkinci çöküntü kuşağını; Erzurum, Erzincan, Pasinler, Horasan ve Iğdır ovaları
+Üçüncü çöküntü kuşağını ise; Malatya, Elazığ, Bingöl, Muş ve Van Gölü çanakları ve bunlar içerisinde yer alan ovalar oluşturur.
+Göller ve nehirler
+Doğu Anadolu Bölgesi'nde yer alan Aras ve Kura nehirleri sularını Türkiye toprakları dışarısında Hazar Denizi'ne dökerler. Fırat, Dicle ve Zap nehirleri ise sularını yine Türkiye dışarısında Basra Körfezi'ne dökerler.
+
+Bölge akarsularının rejimi düzensizdir. Bunun nedeni; yağış rejiminin düzensizliği ve kış yağışlarının kar şeklinde düşmesidir. Kışın yağan karlar erimeden uzun süre yerde kaldığı için akarsuların debileri azalmaktadır. İlkbahar ve yaz aylarında eriyen karlar akarsuların debilerinin yükselmesine ve coşkun bir şekilde akmasına yol açar. Öte yandan bölge akarsularının hidroelektrik enerji potansiyeli yüksektir. Bunun nedeni, yükselti ve eğimlerinin fazla olmasıdır.
+
+Bölgedeki fay hatları üzerinde göller oluşmuştur. Türkiye'nin en büyük gölü olan Van Gölü başta olmak üzere Çıldır, Nazik, Erçek, Hazar, Balık Gölü ve Bulanık gölleri bölge sınırları içerisinde yer alır.
+
+İklim ve bitki örtüsü
+Bölgedeki iklim karasal iklimdir. Sadece iki ilde, Elâzığ ve Malatya illerinde bozkır bitki örtüsü görülür. Van Gölü'nün etkisi sayesinde Bitlis ve Van illerinin Van Gölüne kıyısı olan ilçeleri (Tatvan, Ahlat, Adilcevaz, Erciş, Muradiye, Tuşba, İpekyolu, Erdemit, Gevaş) ılıman bir iklime sahiptir. Erzurum ili kışları soğuk olmasına rağmen yazları yeşil bitki örtüsüne sahiptir.
+
+İller
+
+Doğu Anadolu'da yer alan iller
+Doğu Anadolu'da 14 tane il vardır. En çok nüfusa sahip il Van'dır.
+
+Ağrı
+Ardahan
+Bitlis
+Bingöl
+Elazığ
+Erzincan
+Erzurum
+Hakkâri
+Iğdır
+Kars
+Malatya
+Muş
+Tunceli
+Van
+Demografi
+Doğu Anadolu Bölgesi, Türkiye'nin nüfus yoğunluğu en az olan bölgesidir. Bunda bölgenin yüzölçümünün büyük olması başlıca etkendir. 2021 yılındaki nüfus sayımına göre bölgenin nüfusu 6 milyon 513 bin 106 kişi civarındadır.[2] Türkiye'deki coğrafi bölgeler arasında nüfus miktarı ve yoğunluğu yönünden önemli farklar bulunmaktadır. Bu farkların oluşmasında fiziki faktörler (iklim özellikleri, yer şekilleri, toprak özellikleri) ve beşeri faktörler (sanayileşme, tarım, yeraltı kaynakları, turizm, ulaşım) önemli rol oynarlar.
+
+Diğer bölgelere göçün fazla yaşandığı bölge olan Doğu Anadolu Bölgesi'nde kırsal nüfus, kent nüfusundan fazladır.
+
+Etnik yapı
+Doğu Anadolu Bölgesi etnik açıdan çeşitlilik göstermektedir. KONDA'nın 2010'da yürüttüğü bir araştırmaya göre Ortadoğu ve Kuzeydoğu Anadolu olmak üzere ikiye ayrılmış bölgede, Doğu Anadolu Bölgesi'nin güney kısmını oluşturan Ortadoğu kısmında Kürtlerin nüfusun %79.1'ini oluşturduğu, Kuzeydoğu kısmında ise Türklerin baskın olduğu, ancak %32'lik önemli bir Kürt azınlığa sahip olduğu bulunmuştur.[3][güncellenmeli]
+
+Sanayi
+Bölgenin sanayi anlamında en gelişmiş illeri: Elazığ, Malatya ve Erzurum'dur.
+
+Sanayi kuruluşları yetersiz olan Doğu Anadolu Bölgesi halkı geçimini, başta hayvancılık olmak üzere tarımdan sağlar. Bölgenin hayvancılığa çok elverişli olan Erzurum-Kars Bölümü’nde yüksek nitelikli sığırlar yetiştirilir. Çok sayıda küçükbaş hayvan besleyen göçer aşiretler yazın sürülerini bölgenin öteki kesimlerindeki yüksek yaylalarda otlatır.
+
+Bitkisel üretime elverişli alanlar, bölge yüzölçümünün ancak %10'unu kaplar. Bu alanın büyük bölümünde tahıl ekimi yapılır. Tahıldan başka baklagiller, şeker pancarı, meyve, sebze, pamuk ve az miktarda da tütün yetiştirilir. Pamuk yetiştirilen kuytu Iğdır, Malatya ve Elâzığ ovalarının yanı sıra Erzincan Ovası ile Van Gölü çevresinde meyve bahçeleri çok yer tutar.
+
+Yalnızca büyük kentler çevresinde kurulan sanayilerin başlıcaları pamuklu dokuma, iplik, şeker, süttozu, un, peynir, yem, sigara ve çimento fabrikaları ile et kombinalarıdır.
+
+Yeraltı kaynakları bakımından oldukça zengin sayılan Doğu Anadolu Bölgesi'nde; Afşin ve Elbistan'da linyit, Hekimhan ve Divriği yörelerinde demir, Alacakaya yöresinde krom, Maden yöresinde bakır, Keban ve Baskil yöresinde de gümüşlü kurşun Erzurum-Aşkale'de Bor madeni yatakları bulunmaktadır. Keban ve Karakaya hidroelektrik, Afşin-Elbistan A Termik Santrali ve Afşin-Elbistan B Termik Santrali bölgenin başlıca enerji üretim kuruluşlarıdır.
+
+Tarımsal alanları kısıtlı, sanayi işyerleri yetersiz olan bölge halkının artan nüfusu içinde işsiz kalan kesimi, ülkenin ekonomi olanakları daha gelişmiş olan yörelerine göç etmek zorunda kalmaktadır.</value>
+  </data>
+</root>

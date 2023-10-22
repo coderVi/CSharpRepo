@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="pictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+        RU5ErkJggg==
+</value>
+  </data>
+  <data name="textBox1.Text" xml:space="preserve">
+    <value>İç Anadolu Bölgesi, Anadolu'nun orta kısmında yer alan, Türkiye'nin yedi coğrafi bölgesinden biridir. Türkiye'de gelişmiş bölgeler arasında yer alır. Konumu sebe­biyle bu bölgeye "Orta Anadolu" da denir. İç Anadolu Bölgesi'nin yüzölçümü 151.000 km² olup bu alan Türkiye topraklarının %21'ini kaplar.[1] Yüzölçümü bakımından Doğu Anadolu'dan sonra ikinci büyük bölgedir. Güneydoğu Anadolu Bölgesi dışında diğer bölgelerin hepsiyle komşudur. Aynı zamanda Türkiye'nin "tahıl ambarı" olarak da anımsanır. İç Anadolu Bölgesi'nde toplam 13 il vardır.
+
+İller
+İl merkezleri temel alındığında, İç Anadolu Bölgesi sınırları içinde yer alan 13 il şunlardır:
+
+Ankara
+Konya
+Kayseri
+Eskişehir
+Sivas
+Kırıkkale
+Aksaray
+Karaman
+Kırşehir
+Niğde
+Nevşehir
+Yozgat
+Çankırı
+Bu illerden Ankara, Eskişehir, Çankırı ve Yozgat'ın bazı ilçeleri Karadeniz Bölgesi'ne, Sivas'ın bazı ilçeleri Karadeniz ve Doğu Anadolu Bölgesi'ne, Konya, Karaman ve Niğde'nin güney ilçeleri Akdeniz Bölgesi'ne, Kayseri'nin bazı ilçeleri Akdeniz ve Doğu Anadolu Bölgeleri'ne girer. Ayrıca Afyonkarahisar, Bilecik, Çorum ve Tokat illerinin bazı ilçeleri bu bölgeye girer. Karasal iklim görülür.
+
+Bölümler
+İç Anadolu Bölgesi dört bölümden oluşmaktadır, bunlar:
+
+Yukarı Sakarya Bölümü
+Orta Kızılırmak Bölümü
+Yukarı Kızılırmak Bölümü
+Konya Bölümü
+Sanayi
+Aksaray'da: Mercedes-Benz Türk Kamyon Fabrikası, Sütaş Süt Fabrikası, Balküpü Şeker Fabrikası, Un fabrikaları,
+Kırşehir'de: Petlas lastik fabrikası, Kırşehir Şeker Fabrikası ve Un Fabrikaları,
+Sivas'ta: Lokomotif, benzin, motor, çimento ve inşaat malzemeleri sanayii ile devlet demir yollarının tren, vagon imalatı yapan TÜDEMSAŞ fabrikası vardır.
+Ankara'da: Makine, uçak, savunma sanayi, elektrikli ev aletleri, elektronik, dokuma, gıda ve içki, tarım araçları, çimento, alçı ve mobilya sanayi, elektrik üretimi-kömür madeni, trona madeni üretimi ve soda külünün ihracatı
+Konya'da: Tarım araçları, besin, motor, çimento, süt ürünleri ve inşaat malzemeleri sanayi, EREĞLİ ŞEKER, Çumra Şeker Fabrikası, ILGIN ŞEKER fabrikası ve Konya şeker fabrikası bulunmaktadır.
+Niğde'de: Rot başı fabrikası, halı fabrikası, şeker fabrikası, gazoz fabrikası, beton santrali, otomotiv yan sanayi
+Kayseri'de: Halıcılık, mobilya, şeker fabrikası, yem, savunma sanayi, kimyasal ürünler, elektronik, beyaz eşya, CNC tezgâh üretim sanayi, meyve suyu, pamuklu dokuma, pastırma ve sucuk üretim merkezleri gibi azami 1100 fabrika ile Anadolu'nun üretim lokomotifi.
+Kırıkkale'de: Orta Anadolu petrol rafinerisi, silah fabrikası, demir-çelik endüstrisi, un fabrikaları,
+Eskişehir'de: Besin, yem, çimento endüstrisi, raylı sistemler, lokomotif (TÜLOMSAŞ), hava sanayi (TUSAŞ, TEI) bisküvi, çikolata, şekerleme (Eti) süt fabrikası ve süt ürünleri (PINAR) Şeker Fabrikası ticari araç fabrikası (Otokoç İnönü)
+Yozgat'ta: Çimento, linyit kömür madeni, şeker fabrikası, besin, tekstil
+Karaman'da: Bisküvi (BİFA Bisküvi, ANİ Bisküvi, Saray Holding), gofret, şekerleme, süt fabrikası (Halk). Tahıl ürünleri, buğday, mısır, ayçekirdeği ve özellikle yurt dışına ihracı yapılan elma üretimi yapılmaktadır.
+</value>
+  </data>
+</root>
