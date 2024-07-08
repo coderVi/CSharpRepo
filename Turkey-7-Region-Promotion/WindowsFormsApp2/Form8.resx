@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="pictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+</value>
+  </data>
+  <data name="textBox1.Text" xml:space="preserve">
+    <value>Güneydoğu Anadolu Bölgesi, Türkiye'nin yedi coğrafi bölgesinden biridir. Güneydoğu Torosların güneyinden Suriye sınırına kadar olan yerleri kaplar. Bölge doğu ve kuzeyden Doğu Anadolu Bölgesi, batıdan Akdeniz Bölgesi, güneyden Suriye ve kısa bir sınırla da Irak ile çevrilidir.
+
+Güneydoğu Anadolu Bölgesi, Türkiye'nin en düzlük bölgelerinden biri olup, bu düzlükler Arap Yarımadası'nın güneyindeki Hint Okyanusu'na kadar gider. Bölge etli ve baharatlı yiyeceklere sahip olan zengin bir mutfak kültürüne sahiptir.
+
+Coğrafya
+Arazi Yapısı
+Bölgenin kuzey kesiminde Toros dağ sırasının güney yamaçları ile birlikte ikinci bir kıvrımlı dağ kuşağı uzanır. Bölgenin ortasında 1952 m yükseltiye sahip sönmüş Karacadağ Volkanı yer alır. Bölgenin batısında ise Gaziantep Platosu üzerinde yükselen Kartal Dağları önemli yükseklik yapar. İç kesimlere gidildikçe iklim karasallaşır.
+
+Karaca Dağ’ın batısında Harran, Suruç, Ceylanpınar ve Birecik ovaları yer alır. Dicle nehri ve kollarının toplandığı Diyarbakır Havzası çok verimli bir ovaya sahiptir. Diyarbakır ovası Bismil ovası Çınar ovası Silvan ovası Ergani ovası Çermik ovası Kocaköy ovası Eğil kıyı ovasına sahiptir.
+
+Karaca Dağ’ın batısındaki Şanlıurfa, Gaziantep, Adıyaman platoları Fırat ve kolları tarafından derin bir şekilde yarılmıştır. Karaca Dağ’ın doğusu ise daha engebeli bir yapı gösterir. Bu bölümün güneyinde Mardin-Midyat Eşiği yer alır.
+
+Bölgenin iki önemli akarsuyundan biri olan Fırat, kaynağını Doğu Anadolu Bölgesi’nden alır. Bölgede ise Toroslar’dan gelen Kâhta ve Karadağ’dan gelen küçük akarsularla beslenir. Güneydoğu Toroslar’ın güneye bakan yamaçlarından birçok kol halinde çıkan Dicle Nehri ise bölgenin diğer önemli akarsuyudur. Her iki akarsu da Basra Körfezi’ne sularını boşaltırlar.
+
+Bölgede doğal oluşumlu göl yoktur. Ancak Fırat ve Dicle üzerinde kurulmuş baraj gölleri bulunmaktadır. Bölgenin ve ülkenin 2. en büyük baraj gölü olan Atatürk Barajı bu bölge sınırları içinde yer alır.
+
+İklim
+Orta Fırat Bölümü
+Bu bölümde bozulmuş Akdeniz iklimi görülür. Bölgenin içlerine doğru iklim karasallaşır. Kış sıcaklık ortalaması, Dicle Bölümü'ne göre daha yüksektir. Bölümün kış sıcaklık ortalaması 0 °C'nin altına pek düşmez. Yağış en fazla kış mevsiminde görülür. Yıllık yağış tutarı 700 mm dir. Yaz aylarında yağışların azalması ve sıcaklığın yüksek olması kuraklığı arttırmıştır. İç kesimlerde karasal iklim görülür.
+
+Dicle Bölümü
+Dicle Bölümü'nde karasal iklim etkilidir. Bölümde yazlar çok sıcak ve kurak, kışlar ise soğuktur. Bölümün yüksek kesimlerinde kar yağışları görülür. Kış mevsiminde sıcaklık 0 °C nin altına düşer. Bölümdeki yıllık yağış miktarı 500–600 mm'dir. Son zamanlarda özellikle Diyarbakır çevrelerinde ekonomik anlamda büyük ilerlemeler kaydedilmiştir.
+
+Bitki örtüsü
+Bölgenin doğal bitki örtüsü bozkırdır. İç Anadolu bozkırlarına göre çok fakirdir. Bölgede antropojen bozkırlarda geniş yer kaplamaktadır. Ormanların en az olarak kapladığı bölge olan Güneydoğu Anadolu'da mevcut ormanların büyük bölümü de tahrip edilmiştir.
+
+Ekonomi
+Coğrafi yönden Güneydoğu Anadolu Projesi'nin (GAP) giriş kapısı, sanayisi ve ticari hacmi ile de GAP kalkınmasında temel teşkil eden Gaziantep ve Diyarbakır ekonomik yönden çevresindeki 16 ili etkisi altında tutmaktadır.
+
+Tarım ve hayvancılık
+Bölge ekonomisi Gaziantep dışında tarım ve hayvancılığa dayanır. Geniş düzlüklerin olması bölgede tarım için büyük bir avantaj iken, yaz kuraklığının şiddetli olması üretimi olumsuz etkiler en çok ihtiyaç duyan bölge lös adı verilen çok verimli topraklar bulunur. Bölgenin Dünyada en bilinen tarım ürünü antepfıstığıdır ve Türkiye'de en çok bu bölgede yetişir. Ayrıca badem, buğday, pamuk, keten, susam, nohut, zeytin, incir, karpuz, kırmızı mercimek de yetiştirilir. Bölgede ağırlıklı olarak küçükbaş hayvancılık yapılır. Çok az miktarda sığır yetiştiriciliği de vardır. Ayrıca hayvancılığa dayalı olarak Diyarbakır'da Türkiye'de bir ilk olan Organize Hayvancılık Bölgesi kurulmaktadır.
+
+Yer altı zenginlikleri
+Bölge yer altı kaynakları bakımından oldukça zengin sayılabilir. Fosfat ve linyitin yanında bölgede petrol de çıkarılır. Batman, Diyarbakır ve Kâhta'da Türkiye'nin önemli petrol yatakları bulunur ve Batman rafinerisinin işlediği petrol bölgeden sağlanır. Bölgede az miktarda taş kömürü de bulunur.
+
+İller
+
+Güneydoğu Anadolu Bölgesinin İlleri
+Güneydoğu Anadolu Bölgesi'nin 9 ili vardır:
+
+Gaziantep
+Diyarbakır
+Şanlıurfa
+Batman
+Adıyaman
+Siirt
+Mardin
+Kilis
+Şırnak</value>
+  </data>
+</root>

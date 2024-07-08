@@ -1,0 +1,276 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="pictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAPwAAADKCAIAAAAO6rqAAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAZdEVYdFNvZnR3YXJlAEFkb2JlIEltYWdlUmVhZHlxyWU8AAAVnUlEQVR4Xu2dCXxV1Z3HC7gh
+        Cu5YlrpQddyttW79zFSdWm3HGdHidKqj/TgdP0pdxk5rbavV1qV2rAvZIQuBJGwCCVsgICSsiQHCFjAQ
+        EghEIAGyvHP3NXNu3uHxPC95vPDeu++ce//fz+/jB++76znf3Hfue+ed843jHR0QiK/iSN8DAL4BpAd8
+        B0gP+A6QHvAdID3gO0B6wHeA9IDvAOkB3wHSA74DpAd8B0jPBObhannpf6C8bwYmfSMwaZCQP0Za/Ji+
+        q9DWRbIGkDhA+lRjm0rVS72u9xGUM0KteRvUTywgfYpRVj1PiR4ZoWCscXAl2QCIG5A+lRjNiyi/+03a
+        YK3uY7IZEB8gfSoRZ95Oyx016vrXyZZAHID0KcNs20Q5HUvA+/gB6VOGUvUiJXSMUdb8Gj//kr0AAwek
+        TxGmgnIupGyOPfKyJ3tMjewKGCAgfWrQG4oojwcaaf4DtgIVdzqA9InEElq1benKut9pWydZ3c1kaV+I
+        c+6lJD6NCIXjrI4vyR6BmAHpE4ZWnxtIP+OklGlDlKqX+2yEmF+tPblafEFZw/SGYrJfIDZA+sRgi4cD
+        GWdRRuJIZQ/3WDpZ6QRS2UPUanFGXvGsrSGyd+BUgPSJQd81lRIxFHXDH8hKvRj7y6kVEhLnW9sDy8kx
+        gKjwLL1tmW0b1Y3vy+UThJKb0eSLUe5IcfZdavWfbPkYWcct1PWvUxaeTNpgo7UyuBpu9J/oVZaUyBVP
+        2+Kh4LGA/uBRehu3iZVVz6Mpl1JVHgqafJF5aD1Z3RVwA4M6h/Cg7OHa5g+1HZPx/Zh6KeFBWeepte/Z
+        ukDODIiAJ+mtrkZ8FxcKrqCquc+gnAuif36SWOQlj1MnkNrg9z110we2FiDnB4TBuvS22mkcXKVWvynO
+        +h5Vr6eM8xDpFtKCH1NHZyEo81xl5XNm2yZylkAvbElvoQNG8yKt7mPcepHm3Y/yRlG1ONCY7XVk10lG
+        nPsD6tBMRSj4llzxFG72aPW5RvMCo7XKPFJrHd9pS+3kAvxEqqU3FdxAx5UhLfgJyr2Mqqr4o1a/QQ6U
+        ZMQZt1GH5iUo+3z8NmUe3UquxAekQHpb6TD2L1XX/1787PuBjLOpOkhspEWPkqMmGWH6tdSh+QrKGmYe
+        204uxuskX3pTszp3G01l+HbufLY49SqquJMaaeG/kNNIMkn9INKdiCW3Rn6P5kkSKb1SORHf8HDrFj9B
+        4v+KM76D8kcHJg2iCtfNKFUvkZNLMoGMc6hD8xi15m1yPZ4mkdIH0gZThRhTMocKxTfiW7JS9aJW93d9
+        90zj4ErcxLS6m22prceQnV3bltOXa3v2QJtDxsFVvaeWZAyZOi6vSRtiHlpHLsq7JFJ6aeEjdCGmn4Fy
+        RggFVwhF14uzvifNu18ufwLffdVNH+h7ZplHagf66YE49x/pQ/QffDiyWZKxxUPUofkNbqd5/iOdRErv
+        3JC7Gq3uJnxXttWuxDcQLaO3vUTXU5/Bf2z4TMiGScY6Xk8dnetIpQ/22Ca5Ni+SWOmTi1rzFlU9UWI0
+        LySbJR/cHqOOzntwUZNr8yKcSG8qUUZEioxa+w7Z0BW0LZ9QJ+CBuHnXcBkOpDdaK4Vp11BVEiX40QI3
+        tMjGriAv+Sl1Dh4Iyj7f6mwgV+gtGJfeVqvfoCojelDuZbZynGztDqaG/aBOwxsRpl/nyS5rLEtvK6te
+        oKrhlNF3TSVbu4XRUkGdg5fifLtnW+RSvQK70itVL1MVcMqgyRe5/52iUvkr6jQ8FrX6TXKpXoFN6W1l
+        7W+poo8luG1NduAiQtEN1Gl4L3rjXHK1noA56W0Nyct/QRV6jJHLnyB76R8rsE/fVaht+RRXpK12k6Wn
+        i21Iqe1n4U5Q1jDreD25Zv5hSHpj/1J52ZMoZwRV4rEHZZ1nCa1kdxGYR2qoYQic0d83/S2eL2Ks7qbw
+        HXo4wrRrPDPgAivSGwdWUKV8ehGmX2u0VpGdnsBsr4sy6gZ+Cd+wyaoDxDy8gdqbhyMveRy/t5Er5xlW
+        pFdWv0IVcTwRim9UVj2v1ryNnw1iGUtMmndfj6mQUxkIRmsltStvxxtj5LMivbr+91T5uhy5fMJp3MaM
+        pjJqPx5P2hD85kYunltYkd7WRX3PrOAjJpp8EV3WrkT94s/kbGJGbyihduL5CAVjeR84lhXpw+mji7Jb
+        0ffOIycRG9qOHGoPfoi0eDzXjXsWpRemXkmVsnvJHGq2bSTnEQMD6vjppWjbMkgRcAh70qf6V0hoyiXW
+        sR3kZE6FXPEUtblfknGW2b6ZlAJvsHinlxb8hC5id4NyRsQ4KqBQcjO1rX8i5I9xfs/JISxK32Mqznio
+        fY187V4yh+p755Pz6QcLtdBb+SzinHtP+yuOFMKk9L1Y3c0pHytPWfdaj6mSE4oglnmPPR/8tszd7Ffs
+        Su9gmyn8JCcYYfp1zi0/onutMzRDxMr+jDOiFlfesy19b4ccqohTEpQ3Ct/Xta1p+q5CtfY9cfbd1Ao+
+        jzj3n+LvvecarEuvbcukyhfCZoTiG63AflJtbMO29LYlFF1PFS6E2aCcC7mYAohp6eE2z1/SBqsb/8r4
+        97XsSm/LR1HOBXSZQniIVPYwy/1z2JVeWfMqVZQQjiIUjDWP1JC6ZAx2pffA4Nd+T/qZ2pZPGWzqMCx9
+        5rl0IUI4jFw+gbWpDtmVXv78l1TxQTiNUHQ9U4OlsSu9bUi4WS/OukOcebu0eLy6/nX8Xqlu+COacglV
+        phD2g7KG6Q3FpGpTDbvS94d5dGsgbQhVphAuIq94loVxAvmTHiOW3EKVJoSXCAVjXZoepn84vNMfrg6k
+        n0kVJYSv4KdbK7CP1Kjr8CQ9btg4g5+ln0GVIITLZJytVL2Yku46PEhvW/rOAnHGd+hSg3ghg6QFP9b3
+        zCIz6rkCB9Kr1W9GlBTEa0FZw+SKp42WChemu+JAenn5M1QBQTwclDtSWfOq1bmHVH8SYFF6W2rDzXf8
+        wIof87X6XFwKVLlA/BBp0aNJmrmfLenNwxvE2XdRFw/xb9KGKFUvJ/yjfYakd751yhxKXzbE9xEKr459
+        JKJYcEl6Wzxs7FtifrUmyuACcvkE6mohkGBQ9nCzvY6IEjfJl962nLl0TnQcQFMu7W8uF7Hk1tBFQiBU
+        UN6oRP32POnSq7XvUmcfSBtsHqklL4eR8oHNIIwnUVO+JVd6W+kIZJxNnTpO77C3NOahddC/ABIlwrRr
+        iCvxkVzp+x2+PXNon8MD4XY/yjqPXhkCOREiSnwkV3p14/vUSYfS37cPVmcDyr2cWhkCcZJ+BrEkPpIr
+        vbYtgz7vE9EbPyMrRWA0L6RWhkBwxNl3EkXiI7nS4wdW6rxDEYqut4WvyHoRQPcySGTU2neIH/GRXOnx
+        o6xQfCN16qFIZQ+TtSLQ6/OolSF+T8Y5tnSE+BEfyZa+Bzdj6LMPi4VayHoUpobyR1MrQ/wcdf3rxI24
+        Sbr0GHnJT6kLCMVoKiUrRWDsW0KtDPFthKlXJnAcETektw2pP+/13TPJSn2hbvgDtT7Ej0kbHDkLfDy4
+        Ib2DbSmVEyMuZoiFDpIV+saG0W8g6hd/ITokCLekx1g61YlSXv4MeSkatlL5q/CtIL4KbiNgB4gLCcI9
+        6c32zdT1hPrNmce2641zbeV48H8j0TZ/iN/jqM0hno844zZbF4kEicM96aX5D1CXRCZysgwyL37GOUbL
+        st51+0DfOx965vgqznz8/X+TEw9Jkd6W2vXGOeGfqhqtldQl4ZiHq/FLttoVWoLtj3Kd2pZPQ2tCvB1n
+        CuuOL0nFJ5rES28F9uF7tnPe2efrO/Px7dxCLULhuPBLCsaZlQ5jW+EL8TuacWA5/rOx1U6ruwn/YeCW
+        j7YtQ1n3GkzF45MMaNL20yDx0lM9K1HOhVGGZwo26/GfB7Uc4tsI+WOs4zuDLiWJBEtvKx3inHupy4gS
+        ceZ38R0dGuuQYMSSWyyhlciUNBIsvbR4PHUZpwzKHk4tgfgzWB53pm9IsPTOZ4sRFwOBnCJpg9XadxP+
+        eXx/JFh6fN5a3ccwcw4k9qC8UeZXq4k+rpBw6R1s6Yha87Yw/Trq8iAQKnL5v7s/+WZSpA9hoQPGgRVG
+        axV8xA6hgnJH6o1ziCjuklzpw4FP2SGhOPPwqJ3EDNdxT3pl3WvUleMoq18x2zebR7caTaVCwVjqVYj3
+        Iky/1kfT75iH1tPXX3wT6X7Ti1r7HrUCxEtBORc4cylbOqnv1OGe9Bhx5ndPFkHuSOt4PXmhF/wAAF0p
+        PRmUNUytectWu0hNpxpXpbc694glt6D80c74y1IbWRqGM6VURJFB+A3KvUytfdf9z2ei46r0p8Tq2gvz
+        qHkjuO2u1U/pMRVStSzBlvQYafFjVPFB+IpU+qDRvCj8aY01mJNe31lAFSKEi+CGu1I5MXmd4BMIc9Jb
+        nQ1UaUIYD35I0zZ/mKjB412AOekxUumPcFEK067RtmUYrZW9PwwfFF7KEEYilNysNxT1OQA1y7AovfNj
+        K6dT9ck+d0bzAuhzz1TE2Xc6c77yCZPS94W2LZMqd0hKIhSO6x2XzqVuwMmAG+mdvpuL/o2qAIibQZnn
+        qps+iDJVHi9wJH2PrSGp7GH41jYlkcsnnGo4Om7gSXqCpdtql9XdrG3+v0DGWVTdQBIeseTWxA4lmXI4
+        lD4MZc2rVA1BEhhx5u3OCLsMf810evAtPXTMTHDShuDnVHnJ49qWT6zOBlLKnoNv6aWFj9DVBokx6WcI
+        RTfIS3+mVr+h1+cZBz7HLcYeyyAl62k4lt5Wu6FNP9DgFota85bzQ2zevlFKIBxLrzcUUTUKiRK5/Anz
+        6FZSdv6GY+nliqeoeoX0GZQ/2mitJKUGcC29OPtOqnYhkcHtmT5/r+NnOJYe5Y6kKhhCRZp3P0edH12D
+        V+mdYV8j6hgSHsd4QyLlBYTBq/R6QzFVx5DwgPFR4FJ6Wz4qFFxBVTMkFPy0A8ZHgSfpbfmY2bZRq/sI
+        5V5OVTMkFKH4phQOHsYFzEtvW/re+dLi8WjKpVTtQiIjFI4Ln+oL6BO2pTdkad59VL1C+gvKH20F9pOi
+        A/qHaemNlmVUvUL6izNiXNdeUnBAVJiW3tYFYdq3qdqFRCbZ0/F5DKalx9hql76rUP3iz8q61+TP/wu/
+        g1P1DUHZw82jW0h5ATHAuvQUtobgw8qvJeMsl+eu8QCcSY+RVzxLV7yPozeUkHIBYoY/6ZXVr1AV79vg
+        Vh8pFGAg8Ce9+Nn3qbr3Y9IGqxvfJyUCDBDOpNcb59DV778I06+Ddnw88CS93viZz0evF6Zepe8q9Mkv
+        WZMHT9Kr1X+iJPBPhMKrQfdEwZP0GD/OR5txjjcG02MHzqTHiCW30Fp4N0LRDdR0dED8cCj9rDsoM7wa
+        qfRBWwuQywYSB2/S2ybKPp+Sw5ORyyf4eWiapMKZ9FbHLkoOJ2lD0JRL6IU8R1r0r2B88uBMeuPActoP
+        3AbonabUM4O5irPvgh/7JRXOpDeP1H5NkbTBoU7kyqoXvvYSnxHyx9hSe/CKgCTBmfQ9piIU3RBSRF7x
+        bHCxhQ4GMs4JLec16WeaR74IXhGQPHiTHmNb2Axt6yRtW2ZoQmql6iVaIA6j1X0UvBwgqXAofV8IxTcS
+        ddKGhBziK9K8+7w3/QGbeER689g2vaHYbK9DORdQMnERlDPCQgfIxQBJxiPSB9G2Z1My8RJ99wxyDUDy
+        8ZT08sr/DjqEss+XSn+IMs8NWcVylMqJ5AIAV/CU9Ma+xSh7uFr9ZnCoXvy8S+nFYORlT/bYZvD8AXfw
+        lPSRMP5NLRifErwsvdXdTEnGVJSVz4HxKcGb0luoxWgqE4pvojxjJ2rNW+RcAdfxovSWwXhPTG3LJ+RU
+        gVTApfT4OVVe/ow483Zl7W9s8RBZegJb7aIkYyra9mxyokCK4FL60EeTOPimru2YjFUnr+F/SW2hV1kL
+        dDRgAf6kt5WOyL5l0vwHQj+r03fPoF5lJGr1n4JnCKQW/qRX1v4vJdOJDBLn3COVPRRIPzPipdRHWf0/
+        5AKAVMOZ9L3fNw2ifGI/vV2gTzbAgNTCmfQ8diGWFo+Hz+OZgjPp1Q1/DMkkTL1KXvZzqfRHaPJFoYWs
+        xekwDEPWMAZn0lvHd4Z8Ojm/km3qe2YJBWNDLzESZ4p6mLCbPTiTHiNX/Cf2SS5/gvz/CWxdkEofDHcO
+        B+V9E2UNoxbiCPljhKIbnKk5T/XUi3JHiiW3nsZflDDt27Z8lJwcwBL8Sd9jW5FfSAWxleMhO7HQen0e
+        Xobvtcra3wjTrkH5o3GLSFr0qHHgc7ycbIP/JbWZR7cYTaVa3UdK5UTcZMJ/V8ra3+qNc8MPJM65JyT0
+        KYMPZAmtZEuAMTiUPiq21G7sL7e6m8O1jh9nvJ2Msymz+4sztSVM9McwXpM+GWDjY5/gDYxnH5A+Orb+
+        5XSUdR5ldn8RCsdZgX1kU4BVQPpwbNwuMo9udXJovbYjR5x9N6V1lIgzbrPFw2RPAMOA9ATsazz972GE
+        YY4A6QnKyucoj2OPsu538J0rR4D0BJQ3ilI5luDmvr53PtkFwAkgvYMtH6NsjiXC1Cutjl1kFwA/eFl6
+        W+10hg0Lm5zMaKkQS25FuZdJCx/RGz8L9YrR986jhI4SlDVMyB8jLR5vS0eCmwN84U3pbfGQvOTxYCdk
+        lD1cWvyYtnWS01nt650O0OSL5YqnldWv4D+D8OWhYLn13TPFmbeHlsjLfo53Tw4D8An/0tuWsX+pWvuO
+        +sVftO1Z2o4cdf3rKOfCkKbxJPjrPgu1hH6rhRvxFjoYPDLAKXxLj5vUCZhsMP1Mcfbd8rIn5eW/kEp/
+        GP4jFa1+SvBAWt3fQwud2aAAnuFYevNwNW66hFyMDMobZXU2WF17jaYy3LaRyh4SCq/GLRmUMwLlXi7N
+        u0+tfsNorQoNch9EWfV8aA/inHtCjwTm4Q3KqhfEWXfg5lBwCcApHEsvzrk3ZGefEef+gKw6EHDrKHwn
+        ekMReQHwChxLL0z/h3A7hYJvCVOvDF/izNE3IAzZaKlAuSPDd4IfiMmrgFfgWHq9oVjIH4PbKrhF7oyg
+        ZGo4yppfBzKH9vo6SN8zi6zaP2bbJjTl0nDLqUjz/5msCngFjqXvF9uy1a4YZ6WkGjMRGaTvLCCrAl7B
+        i9IPBAsd1DZ/qG35RK15C02+OOi6OPtO/ctpZttGW+0k6wEewu/Sh6Nu/Cs2Hj8qwPgF3gak78WZprNG
+        KLoeS280lZGFgEfxu/TmV2ukefeR30alDVaqXiQvAN7F79ILheOC7XilciKM2OET/C69vPRngbQh8ue/
+        hG5k/sHv0gM+BKQHfAdID/gOkB7wHSA94DtAesB3gPSA7wDpAd8B0gO+A6QHfAeRHgLxUTo6/h9DQQHK
+        KRBqVgAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="textBox1.Text" xml:space="preserve">
+    <value>Ege Bölgesi, Türkiye'nin yedi coğrafi bölgesinden biridir. İsmini kıyısında olduğu Ege Denizi'nden alır. Ege (Asıl Ege, Kıyı Ege) ve İç Batı Anadolu (İç Ege)[1] olmak üzere iki bölüme ayrılır. Kuzeyde Marmara, doğuda İç Anadolu, güneyde Akdeniz bölgeleriyle ve batıda Ege Denizi'yle çevrilidir. Türkiye'nin en uzun kıyı şeridine sahip bölgesidir. Tarihi mekanlar çoktur örneğin; Efes Antik Kenti daha birçok tarihi mekanlar vardır. Ege Bölgesinin iklimi Akdeniz İklimi'dir.
+
+Coğrafya
+Sınırlar
+Bölgenin sınırları kuzeyde Kaz Dağı, Madra Dağı, Simav Dağları ve Dominiç Dağı; doğuda Türkmen Dağı ve Emir Dağları; güneyde Karakuş Dağı ve Göreli Dağı; batıda Çanakkale'ye bağlı Bababurun'dan başlayarak tüm Edremit Körfezi, İzmir ve Aydın illerinin tüm kıyı şeritleri ve Muğla'da, Köyceğiz hariç olmak üzere, kuzeyden güneye Köyceğiz kıyılarına kadardır.
+
+Ovalar: Ege Bölümü'nde horstlar arasında kalan grabenler birer alüvyon ovasıdır. Bunlar Bakırçay, Gediz, Büyük ve Küçük Menderes grabenleridir. Bu grabenler fiziksel bir haritada yeşil renk ile gösterilir. Gediz ağzında Menemen Delta ovası, Büyük Menderes ağzında Balat Delta ovasından oluşmuştur.
+
+Nüfus ve Toplumsal Yapı
+Kentleşmenin en yoğun yaşandığı bölge konumundadır. Ege Bölgesi'ndeki kentler, çoğunlukla ana yolların geçtiği oluklar ve verimli ovaların kenarlarında yer alır; kıyı kesiminde ise körfezlerin kenarlarında bulunur. Kırsal yerleşmeler, genellikle ovalardaki akarsu kenarlarında ve vadi içlerinde görülür. Türkiye nüfusunun 1/8 kadarı Ege Bölgesi'nde yaşamaktadır. Bu nüfusun yarıdan fazlası (%62,2) kentlerdedir. Ege Bölgesi'nin ortalama nüfus yoğunluğu ise Türkiye ortalamasının üzerindedir. Nüfus yoğunluğu açısından Marmara Bölgesi'nden sonra ikinci sırada bulunur. Ege Bölümü'ndeki ovalar üzerinde fazla olan nüfus yoğunluğu, İç Batı Anadolu Bölümü'nde ve Menteşe Yöresi'nde azalır.
+
+Nüfus bakımından Ege Bölgesi'ndeki illerin sırası şöyledir [2]:
+
+İzmir
+Manisa
+Aydın
+Denizli
+Muğla
+Afyonkarahisar
+Kütahya
+Uşak
+Ekonomi ve Yerleşim
+Tarım
+Ege Bölgesi’nde nüfusun çoğunluğu iklim toprak koşulları ve ulaşım kolaylıklarının da elverişliliğiyle geçimini tarımdan sağlar. Ege bölümünde Akdeniz iklimine uygun bazı bitkiler (zeytin, üzüm vb.) ağır basar. Ege bölümünden, İçbatı Anadolu bölümüne geçildikçe, tarımın niteliği değişir; tahıl ekimi artar ve hayvancılık geçimde daha önemli yer tutar. Tahıl ekiminde buğday başta gelir, onu arpa ve mısır izler. Buğday özellikle Afyon ve Denizli’de üretilir, Bu illeri İzmir, Aydın ve Muğla izler. Arpa ise Afyon ve Manisa illerinde, mısırın da başlıca ekim alanı Manisa’dır. Pirinç ekimine ovalarda az miktarda yer verilir. Bölgede yaş ve kuru sebze üretimine de önem verilir. İklim koşulları uygun olduğu için, turfanda sebze (domates, fasulye vb.) yetiştirilerek diğer bölgelere yollanır. Soğan ve patates ekimi yaygındır; baklagillerden en çok nohut ekilir. Kavun ve karpuz üretimi de yaygın biçimde yapılmaktadır[3].
+
+Bölgede yetiştirilen sanayi bitkileri arasında tütün, pamuk, susam, keten ve şekerpancarı baş sıralarda yer alır. Edremit Körfezi kıyıları yağ zeytini üretimi kesir ağaç sayısı bakımından önemlidir. Üzüm bağlarına da bölgenin her yerinde rastlanır. Üzüm ayrıca şarap ve pekmez yapımında da kullanılır. Kuru üzüm Manisa-İzmir civarında, kış soğuna dayanamayan incir ise kıyı kesimlerde özellikle Aydın'da yetişir. Türkiye'deki incir ağaçlarının yaklaşık olarak %81’i Ege Bölgesi’ndedir. Turunçgiller bölgenin özellikle güney kesiminde yetişir; Kuşadası Körfezi ve Bodrum Yarımadası’nda mandalina; Aydın ve Nazilli arasında portakal, limon, mandalina ve turunç yetişir[3].
+
+Hayvancılık
+
+Didim'de Apollon tapınağındaki Medusa kabartması.
+Ege bölgesinde hayvancılık çok gelişmemiştir. Üstelik yakın dönemde otlakların daralması nedeniyle, hayvan sayısında azalma gözlenmektedir. Kıyı kesimde daha çok kıl keçisi, tiftik keçisi ve koyun, iç kesimlerde sığır ve manda besiciliği yaygındır. Balıkçılık ise eski önemini kaybetmiştir. Özellikle İzmir Körfezi ’nin sularının pis olmasından dolayıdır. Yine eski önemini yitirmiş olmakla birlikte Bodrum kıyılarında sünger avcılığı yapılmaktadır. Aynı zamanda Ege Bölgesi'nde kümes hayvancılığı ve arıcılık da yapılır.
+
+Sanayi
+
+Afyonkarahisar Bayat Türkmen Kilimi
+Sanayi bakımından Marmara Bölgesi'nden sonra ikinci sırada gelir. Bölümler arasında gelişmişlik ve sanayi oranı bakımından büyük farklılık vardır. Asıl Ege Bölümü sanayi bakımından daha gelişmiştir. Zaten bölgenin en büyük ve gelişmiş kenti İzmir de bu bölümde yer alır. İzmir sanayisi, fuarı ve ihracat limanı ile bölgenin önemli kentidir. İzmir'de Aliağa Petrol Rafinerisi de bulunmaktadır. İzmir'de otomotiv, madeni eşya, kimya, seramik, dokuma, çimento, sigara ve zeytinyağı, Edremit ve Ayvalık'ta zeytinyağı, Aydın tarım, Manisa sanayi ve tarım, Denizli ve Uşak'ta dokuma, Uşak'ta şeker, seramik, kümes hayvancılığı, altın madenciliği ve deri Afyon Karahisar'da şeker, çimento ve mermer, Uşak, Gördes, Kula, Demirci ve Simav'da halıcılık sektörleri, Aydın da incir işleme fabrikaları vardır. İhracat sıralamasında İzmir, Manisa ve Denizli ilk 10 da kendilerine yer bulmaktadır. İşsizlik oranın en düşük olduğu illerin başında Denizli gelir, nüfusuna oranla en fazla sanayi ve ticaret hacmine sahip olması bu durumda etkilidir.
+
+Ege Bölgesi'nde üretilen incir, zeytin gibi ürünlerin sanayileri yapılır. İzmir'de toplanmış olan başlıca sanayi kolları arasında dokumacılık da vardır. Dokumacılık ve tekstil Denizli ve Uşak'ın ilçelerinde oldukça fazladır.
+
+Turizm
+Ege Bölgesi turizm potansiyeli olarak Türkiye'de Akdeniz Bölgesinden sonra gelmektedir. Birçok tarihi eser, yapıt, kalıntı Efes, Didim, Pamukkale,Hiearpolis,Laodikeia gibi tarihi yerler ve buna ilave olarak doğa harikası sahilleri Fethiye, Bodrum, Marmaris, Didim, Kuşadası ve Çeşme gibi önemli plajları mavi bayraklı sahilleri ile gözde turizm ve tatil bölgeleri mevcuttur.
+
+Ulaşım
+Kara yolu ulaşımı
+Ege bölgesinde karayolu ulaşımı oldukça gelişmiştir. Başlıca ulaşım merkezleri: İzmir, Afyonkarahisar, Manisa ve Denizli önemli kavşak yolları üzerindedir.
+
+Deniz yolu ulaşımı
+İzmir, Çeşme, Aliağa, Dikili, Ayvalık, Kuşadası, Didim, Bodrum, Fethiye, Marmaris,
+
+Hava yolu ulaşımı
+İzmir, Dalaman, Bodrum, Denizli, Kütahya, Edremit, Uşak.
+
+Demiryolu ulaşımı
+Bölgede demiryolu ulaşımı özellikle yük ve yolcu taşımacılığında kullanılır. Türkiye'nin ilk demiryolu İzmir ve Aydın arasına döşenmiştir.</value>
+  </data>
+</root>

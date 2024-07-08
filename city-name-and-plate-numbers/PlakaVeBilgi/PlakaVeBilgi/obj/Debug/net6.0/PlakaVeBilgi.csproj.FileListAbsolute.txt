@@ -1,0 +1,15 @@
+C:\Users\mrasm\source\repos\PlakaVeBilgi\PlakaVeBilgi\bin\Debug\net6.0\PlakaVeBilgi.exe
+C:\Users\mrasm\source\repos\PlakaVeBilgi\PlakaVeBilgi\bin\Debug\net6.0\PlakaVeBilgi.deps.json
+C:\Users\mrasm\source\repos\PlakaVeBilgi\PlakaVeBilgi\bin\Debug\net6.0\PlakaVeBilgi.runtimeconfig.json
+C:\Users\mrasm\source\repos\PlakaVeBilgi\PlakaVeBilgi\bin\Debug\net6.0\PlakaVeBilgi.dll
+C:\Users\mrasm\source\repos\PlakaVeBilgi\PlakaVeBilgi\bin\Debug\net6.0\PlakaVeBilgi.pdb
+C:\Users\mrasm\source\repos\PlakaVeBilgi\PlakaVeBilgi\obj\Debug\net6.0\PlakaVeBilgi.csproj.AssemblyReference.cache
+C:\Users\mrasm\source\repos\PlakaVeBilgi\PlakaVeBilgi\obj\Debug\net6.0\PlakaVeBilgi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrasm\source\repos\PlakaVeBilgi\PlakaVeBilgi\obj\Debug\net6.0\PlakaVeBilgi.AssemblyInfoInputs.cache
+C:\Users\mrasm\source\repos\PlakaVeBilgi\PlakaVeBilgi\obj\Debug\net6.0\PlakaVeBilgi.AssemblyInfo.cs
+C:\Users\mrasm\source\repos\PlakaVeBilgi\PlakaVeBilgi\obj\Debug\net6.0\PlakaVeBilgi.csproj.CoreCompileInputs.cache
+C:\Users\mrasm\source\repos\PlakaVeBilgi\PlakaVeBilgi\obj\Debug\net6.0\PlakaVeBilgi.dll
+C:\Users\mrasm\source\repos\PlakaVeBilgi\PlakaVeBilgi\obj\Debug\net6.0\refint\PlakaVeBilgi.dll
+C:\Users\mrasm\source\repos\PlakaVeBilgi\PlakaVeBilgi\obj\Debug\net6.0\PlakaVeBilgi.pdb
+C:\Users\mrasm\source\repos\PlakaVeBilgi\PlakaVeBilgi\obj\Debug\net6.0\PlakaVeBilgi.genruntimeconfig.cache
+C:\Users\mrasm\source\repos\PlakaVeBilgi\PlakaVeBilgi\obj\Debug\net6.0\ref\PlakaVeBilgi.dll

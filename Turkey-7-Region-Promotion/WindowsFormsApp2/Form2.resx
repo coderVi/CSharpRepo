@@ -1,0 +1,289 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="pictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+</value>
+  </data>
+  <data name="textBox1.Text" xml:space="preserve">
+    <value>Marmara Bölgesi, Türkiye'nin 7 coğrafi bölgesinden biridir.
+
+Köprü niteliği ile Avrupa ve Asya'yı birbirine bağladığı söylenebilir. Yaklaşık 67.000 kilometrekarelik bir yüzölçüme sahip olup Türkiye'nin %8,5'ine karşı gelir.[1]
+
+Marmara Denizi de yaklaşık 11.000 km²'lik yüzölçümüyle bu bölgenin bir iç denizi durumunda olup bölgenin tam ortasını kaplar. Marmara Bölgesi'nin toplam nüfusu TÜİK 2022 yılı nüfus sayımına göre 26,650,405 Nüfusu vardır.
+
+Marmara Bölgesinde sanayi, ticaret, turizm ve tarım gelişmiştir. Bölgedeki en gelişmiş sanayi İstanbul-Bursa-Kocaeli şehirlerinde olmakla birlikte bölgenin diğer yörelerinde de yaygın sanayi faaliyetleri vardır. Başlıca sanayi ürünleri olarak; otomotiv endüstrisi parçaları,çeşitli metal ürünler, işlenmiş gıda,dokuma, hazır giyim, çimento, kimya, kâğıt, petrokimya ürünleri, beyaz eşya sayılabilir.
+Ekili alanların yaklaşık yarısı buğday olup buğdayı şekerpancarı, mısır ve ayçiçeği izler. Bölge, Türkiye'nin ayçiçeği üretiminin yaklaşık %73'ünü, mısır üretiminin ise yaklaşık %30'unu gerçekleştirir. Bağcılık da hayli gelişmiş olup Tekirdağ, Şarköy, Mürefte, Avşa ve Bozcaada üzüm ve şarapları meşhurdur.
+
+Yedi coğrafi bölge içinde yükseltisi en az olan bölgedir. Ekili-dikili arazi oranı %30'dur. Ormanlık alan oranı %11,5'tir. Kümes hayvancılığı ve ipek böcekçiliği yaygındır. Nüfus ve nüfus yoğunluğu, göç alması nedeniyle çok yüksektir. Enerji tüketimi ve turizm gelirleri en yüksek bölgedir.
+
+İstanbul, Tekirdağ, Edirne, Kırklareli, Yalova, Kocaeli tamamen bölge sınırları içinde; Sakarya ve Bilecik'in Karadeniz Bölgesi'nde toprakları olup; Bursa ve Balıkesir'in Ege Bölgesi'nde de toprakları vardır. Çanakkale ilinin topraklarının çok büyük bir bölümü Marmara Bölgesi içinde olup sadece Edremit Körfezi çevresindeki yerleşim yerleri Ege Bölgesi sınırları içinde kalır.
+
+Marmara bölgesi'nin en büyük kenti İstanbul'dur. Marmara Bölgesi'ndeki en küçük kenti ise Yalova'dır.
+
+İstanbul, Marmara bölgesinin yoğun nüfuslu olmasında önemli bir rol oynar. İl merkezleri baz alındığında Marmara Bölgesinde yer alan iller şunlardır.
+
+İstanbul
+Edirne
+Kırklareli
+Tekirdağ
+Çanakkale
+Kocaeli
+Yalova
+Sakarya
+Bilecik
+Bursa
+Balıkesir
+Marmara Bölgesi'nde olmayıp bölge sınırları içerisinde toprakları bulunan iller
+
+Düzce, Gümüşova ilçesinin batısı.
+Bolu, Sultanpınar Yaylası ve Göynük ilçesine bağlı Hacımahmut ile Kaşıkçışeyhler köyleri.
+Eskişehir, İnönü ilçesinin kuzeyi.
+Kütahya, Domaniç ilçesine bağlı Safa köyü ve Çiçekli Yayla (Acısu).
+Manisa, Kırkağaç ilçesine bağlı Demirtaş, Fırdanlar, Gökçukur, Kocaiskan mahalleleri ve Soma ilçesine bağlı Tabanlar mahallesi.
+İzmir, Bergama ilçesine bağlı Ürkütler mahallesinin kuzeyi
+Marmara Denizi'ne kıyısı bulunan iller
+
+İstanbul
+Tekirdağ
+Çanakkale
+Balıkesir
+Bursa
+Yalova
+Kocaeli
+Marmara Denizi'ne kıyısı bulunmayan iller
+
+Kırklareli (Karadeniz'e kıyısı bulunur.)
+Edirne (Ege Denizi'ne kıyısı bulunur.)
+Sakarya (Karadeniz'e kıyısı bulunur.)
+Bilecik (hiçbir denize kıyısı yoktur.)
+Marmara Bölgesi'nin, yine bölge bazında olan 14 komşusu vardır. Güneyde Ege Bölgesi, doğuda Karadeniz Bölgesi ve güneydoğuda İç Anadolu Bölgesi karadan bölgeyi kuşatmıştır. Bölgenin adını aldığı Marmara Denizi haricinde; İstanbul, Tekirdağ, Kırklareli, Kocaeli ve Sakarya illeri aracılığı ile Karadeniz'e; Çanakkale, Edirne ve Balıkesir illeri aracılığı ile de Ege Denizi'ne kıyısı vardır.
+</value>
+  </data>
+</root>

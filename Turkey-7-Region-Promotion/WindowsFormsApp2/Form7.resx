@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="pictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+</value>
+  </data>
+  <data name="textBox1.Text" xml:space="preserve">
+    <value>Akdeniz Bölgesi, Türkiye’nin yedi coğrafi bölgesinden biridir. Anadolu’nun güneyinde Akdeniz kıyısı boyunca uzanır. Genişliği 120–180 km arasında değişir. Batı ve kuzey batısında Ege Bölgesi, kuzeyinde İç Anadolu Bölgesi, doğusunda Güneydoğu Anadolu Bölgesi, güneyinde ise Akdeniz bulunur. Güneydoğudan Suriye ile komşudur. Türkiye’nin başka bölgelerinde olduğu gibi Akdeniz Bölgesi’nde de bölge sınırları ile yönetim birimleri olan illerin sınırları tümüyle çakışmaz.
+
+Coğrafya
+Coğrafi konum
+Adını güneyindeki denizden alan Akdeniz Bölgesi, kuzey batıda Ege Bölgesi, kuzeyde İç Anadolu Bölgesi, kuzeydoğuda Doğu Anadolu Bölgesi ve doğuda Güneydoğu Anadolu Bölgesi ile komşudur[1].
+
+Kıyı uzunluğu doğuda Suriye sınırından batıda Marmaris'e kadar 1542 kilometredir.
+
+Arazi Yapısı
+
+Batı Toroslar, Antalya
+
+Göksu Nehri
+
+Türkiye'nin en büyük tatlısu gölü, Beyşehir gölü
+
+Alanya yakınlarından bir burun
+Akdeniz bölgesinin arazi yapısı oldukça dağlık ve engebelidir. Bölgenin yeryüzü şekillerinin ana çizgilerini Toros Dağları belirler. Antalya Körfezi’nin iki yanında yer alan Batı Toroslar, Kuzeyde Göller Yöresinde birbirine yaklaşıp sıkışır. Teke Yarımadası'nın batısında beliren Batı Toroslar, Taşeli Platosu'na kadar uzanır.
+
+Genellikle kalker ve ofiyolitli kayalarından oluşan bu dağlar kırıklı ve kıvrımlı bir yapı gösterir. Batı Torosların en yüksek noktası Bey Dağlarındaki 3096 m’lik Kızlar Sivrisi Tepesidir. Göller Yöresi’nin kalker oluşumu, sarp dağlarının ortalama yüksekliği 2000–2005 m arasındadır. Yüksek kütleler arasında Avlan, Gördes, Söğüt gibi karstik kökenli çanak biçimli çukur alanlar vardır.
+
+Bu kesim aynı zamanda düden, obruk, mağara, yer altı dereleri, suyutan ve voklüz kaynakları gibi karstik şekiller bakımından da zengindir.
+
+Türkiye’nin, Beyşehir ve Eğirdir gibi büyük tatlı su gölleri buradadır. Batı Toroslar, dik eğimli yamaçlarından inen bol sulu akarsular tarafından parçalanmış ve genellikle boylamasına uzanan derin vadiler ortaya çıkmıştır. Orta Toroslar, güney batıdaki Taşeli platosu ile kuzey doğudaki Uzunyayla arasında uzanır. Bu kesimdeki başlıca yüksek kütleler batıdan doğuya doğru Bolkar Dağları, Aydos Dağları, Aladağlar, Tahtalı Dağları ve Binboğa Dağlarıdır.
+
+Orta Toroslar'ın en yüksek noktası Ala Dağlar’da 3756 m’ye yetişen Demirkazık Tepesidir. Orta Toroslar Uzunyayla’da 1500m yüksekliğindeki bir platoya dönüşür. Orta Toroslar kuzey-güney doğrultusunda akan bol sulu akarsular tarafından parçalanmıştır. Göksu, 130 km uzunluğundaki Limonlu Çayı, Tarsus çayı bunların başlıcalarıdır. Bu akarsular kalker oluşumlu dağlar arasında, derinliği 1000m’yi bulan vadiler açar ve yörenin yüzey şekillerinin sert bir görünüm almasına neden olur.
+
+Nur Dağları, Toroslar dağ sisteminin en güneyindeki bölümünü oluşturur ve İskenderun Körfezinin doğusunda dik bir duvar gibi yükselir. Bu dağların, Güneydoğu Torosların başlangıcı olan Ahır Dağlarına yaklaştığı noktada yükseltisi Düziçi İlçesinin kuzeyinde Düldül Tepesi 2200 m. Osmaniye'nin Güneydoğusunda Daz Tepesi 2200 m. Dörtyol'un doğusunda Mıgır Tepesi 2243 m.yüksekliğindedir.
+
+Lübnan topraklarından doğarak kuzeye doğru akan ve Antakya yakınlarında dik bir açıyla batıya dönen Asi Nehri, Amik Ovasının Güneybatı ucunda, geniş tabanlı bir vadiden geçer ve Samandağı yakınlarında Akdeniz'e dökülür.
+
+Çukurova, doğuda Amanos Dağları, batıda ise Orta Toroslar'la sınırlanır. Bu geniş düzlük batıda Seyhan doğuda Ceyhan ırmaklarının taşıdığı alüvyonlarla oluşmuş büyük bir delta ovasıdır. Çukurova’nın kuzey kesimleri bu iki ırmağın kolları ile yeryer parçalanmış bir plato görünümündedir; buna karşılık güneyde tekdüze bir hal alır. Bölgedeki en önemli akarsular doğudan batıya doğru sırasıyla Asi, Ceyhan ve Seyhan ırmakları ile Göksu, Köprü Suyu, Aksu, Eşem ve Dalaman çaylarıdır.
+
+Başlıca doğal göller Beyşehir, Eğirdir, Burdur ve Suğla gölleridir. Kıyılarda ise irili ufaklı birçok lagün vardır. En önemli yapay göller ise Seyhan, Çatalan, Aslantaş ve Menzelet baraj gölleridir.
+
+Akdeniz kıyıları genellikle, az girintili çıkıntılı olması ve geniş yaylar çizmesi bakımından Karadeniz kıyılarına benzer; kıyı sahanlıklarına da pek rastlanmaz. Bölgenin en batı kesiminde ise dağlar kıyıya dik uzandığı için, burada Ege kıyılarına benzeyen daha girintili çıkıntılı bir kıyı tipi vardır. Bu kıyıların, yakın zamanlardaki bir deniz düzeyi yükselmesi sonucu oluştuğu sanılmaktadır. Engebeli kıyının içine sokulmuş küçük koylar, adalar ve yarımadalar bu yükselme nedeniyle ortaya çıkmıştır.
+
+İklim
+Akdeniz, Ege bölgesi kıyıları ve Marmara Denizi çevresinde Akdeniz İklimi görülür. Bu iklimde yazlar sıcak ve kuraktır. Kışlar ise ılık ve yağışlıdır,yaz ve kış mevsimindeki yağış miktarı arasında, büyük bir fark bulunmaz.İç kesimlere doğru Karasal iklim görülür.
+
+Bitki örtüsü
+Dağların denize bakan yamaçlarında makilikler ve yer yer yüksek ormanlar kaplı ve arkalarında çukur alanlar ise karasal etkilerin arttığı bir iklim tipine rastlanır. Yine de Akdeniz’in etkisi nedeniyle bu kesimlerdeki iklim, İç Anadolu’daki kadar şiddetli karasal özellikler taşımaz. En sıcak ay ortalaması kıyılardaki 27-28 °C, iç kısımlar 23-25 °C dir; en soğuk ay ortalaması ise kıyıda 10 °C dolayında iken iç kısımlarda 1,5-2 °C kadar iner. Benzer biçimde, yıllık ortalama sıcaklık kıyılarda 18-20 °C, iç kısımlarda ise 12-14 °C kadardır. Yine Türkiye'nin ortalama sıcaklıgı en yüksek noktası da buradadır Mersin kent merkezinin ortama sıcakklığı yıllık 22 °C dir. Bu sayede turizm gelişmiştir. Turizm bölgenin önemli geçim kaynaklarındandır. Aynı zamanda iklim şartları nedeniyle bitki örtüsü makidir ve aynı zamanda yazları sıcak ve kurak kışları ise ılık ve yağışlı geçer. Yine de bu bölgede ortalama derece yazları 18°-30° derece kışları ise ortalama 8°-10° derece arasında yer alır. Bitki örtüsü maki, defne, keçiboynuzu, zeytin gibi bodur ve kısa ağaçlardan oluşur. Ancak bu ağaçlar orman ağaçlarına nispeten sıcağa ve soğuğa daha dayanıklıdır.
+
+İller
+Akdeniz Bölgesi sınırları içerisindeki iller şunlardır:
+
+Adana
+Antalya
+Burdur
+Hatay
+Isparta
+Mersin
+Osmaniye
+Konya'nın Beyşehir, Seydişehir, Bozkır, Taşkent, Hadim, Derebucak, Yalıhüyük ve Ahırlı ilçeleri
+Kahramanmaraş (Afşin ve Elbistan ilçeleri hariç. Bu ilçeler Doğu Anadolu’dadır.)
+Karaman'ın merkez ilçe ve Ayrancı ilçelerinin bazı bölümleri Ermenek, Sarıveliler, Başyayla
+Afyonkarahisar’ın Başmakçı, Dinar ve Dazkırı ilçeleri
+Denizli'nin Acıpayam, Çameli, Bozkurt ve Beyağaç ilçeleri
+Gaziantep'in İslahiye ve Nurdağı ilçeleri
+Niğde'nin Çamardı ve Ulukışla ilçeleri
+Nüfus ve Yerleşme
+
+Bölgeyle özdeşleşen kent, Antalya
+2007 nüfus sayımı sonuçlarına göre Akdeniz Bölgesi'nin nüfusu yaklaşık olarak 8,9 milyondur. Akdeniz Bölgesi kıyı bölgelerimize göre daha az nüfusludur. Nüfus yoğunluğunun en az olduğu yerler Teke ve Taşeli Platosu ile dağlık alanlardır. Akdeniz Bölgesi sulak ve kurak olmayan bir bölge olduğundan nüfus dağınıktır.
+
+Turizm
+Bölgenin kıyı kesimindeki elverişli iklim koşulları, doğal güzellikler ve tarihi zenginlikler turizmin gelişmesini sağlamıştır. Antalya Bölümü, deniz ve tarih turizmiyle ön plana çıkmaktadır. Antalya, Alanya, Side, Kaş ve Kalkan, bu bölümde deniz turizminin geliştiği merkezlerdir. Akdeniz medeniyetini simgeleyen Olimpus, Patara gibi tarihi şehir kalıntıları önemli turistik çekiciliklerdir. Bölgede geniş alan kaplayan karstik şekiller, özellikle Damlataş ve İnsuyu ile Cennet – Cehennem doğa harikasıdır. Pek çok milli park ile uluslararası yarışma ve festivallere duyulan aşırı ilgi bölge turizminin gelişmesine katkıda bulunmaktadır.
+
+Adana Bölümü'nde bulunan Mersin, Adana ve Hatay illerinde de deniz, tarih, doğa ve özellikle gastronomi turizmi gelişmiştir. Bölge son yıllarda yalnızca gastronomi turizmi için 3 milyon civarında ziyaretçiyi ağırlar hale gelmiştir.[2] Bölgenin meşhur yemeklerini yapan pek çok restoran yanında son yıllarda bu kentlerin sokak lezzetlerine olan ilgi, sosyal medya sayesinde katlanarak artmıştır. Gastronomi turizminin yanında Mersin'de bulunan Yapraklı koy, Kızkalesi ve Tisan Koyu, Adana'da bulunan Karataş ve Yumurtalık sahilleri, Hatay'da ise Arsuz sahilleri, deniz turizmi için her yıl pek çok insanı kendisine çekmektedir. Hem bu bölgelerdeki sit alanları, hem kent merkezlerinde bulunan Adana Arkeoloji Müzesi, Mersin Arkeoloji Müzesi müzeleri gibi pek çok müze, yerli ve yabancı turistlerin ilgi odağı olmakta ve bölgenin tarih turizminin önemli destinasyonlarından olmaya devam etmektedir.
+
+Yemekleri
+Piyaz
+Mahluta çorbası
+Çakıldaklı çorba
+Toğga çorbası
+Tirşik çorbası
+Gülgas
+Babagannuş
+Fıstıklı Köfte
+Mercimekli köfte
+İçli köfte
+Etli kömbe
+Kısır
+Kelle paça
+Batırık
+Antakya Böreği
+Künefe
+İrmik helvası
+Kuşkonmaz çorbası
+Tahinli Antalya piyazı
+Radika salatası
+Bal kabağı dolması
+Kahramanmaraş tarhanası
+Mumbar dolması
+Dondurma
+Adana kebabı
+Tantuni
+Bici bici</value>
+  </data>
+</root>

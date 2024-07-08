@@ -1,0 +1,238 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="pictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAJ8AAAB/CAMAAADGgeBQAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAABpUExURf///zmoNfLy8janMjKmLi6lKfr9+iqkJfb79u737vP68yajIe3u7tzu28zny+bz5cHh
+        v9Dozx6hGH3De6TUopHLj8bkxVCwTa3YrGK3X7XbtHW/ckWsQovIiU2wSVa0U5nOl229a4fIhLlvJGQA
+        AAR5SURBVHhe7ZzZlqsqEEBjA+LQBI0jqHH4/4+8mJA4G9OVc0+vddgPvewouhuKqjIPffr++s18n75O
+        v5kv4wfC+MEwfjCMHwzjB8P4wTB+MIwfDOMHw/jBMH4wjB8M4wfD+MEwfjCMHwzjB8P4wTB+MIwfDOMH
+        4x/wCxvX1oef500/HsggZa7HByUufCH18ed5y89jgvoUZULUIooZD0OXnwuMY1df8HkO+9lO2NQ+thQI
+        Y4wwvSh8/4It8uem76CfzWRTlPRmt4REf3f+vKAgF4qR1llCuj+2QQ74sQITLbIBokF/oc0/MY+2Qh8q
+        XvrZLHthp8Ats223qcVZj/oRNrfV45ooalLm6M9e+DkyKjeibgIui6gmyC8AC21XpGgii2BMyCXSgvt+
+        boXpdtiNQYSovwMLT498H95hRHyiH+frldjzc+TVv199FHTleuzb8HryrMstonf8nDCNrCNLO4HEevi7
+        2NHkWbjWf+imX0jp632xAJWhGsvi83txaPOE6jvcoUyf2fRj0wFHIQU/sYxaVe95lKCrpytFOn1m20/+
+        YPZ6cNsIYiFfPDLEa1jpzzahn+tTa34yViTXY/t2Cb5vQdycWb+Znbmnyr5sNLk2z7NFmNNnRV/6nVX1
+        Vyno7a0xA1llGakoSqJxKLqhTBopSunpUsPjDC0fNXQcS7/4zZyyCUKkjCLsx4+c6HipoBeqWh6Ehegk
+        c9xAt0QziM4ua3756oifoTox9bPIZRoylndF+QzqvkUro3Yjg5FnnVz6eY04Ktg3gvpwD1UVrDK7Evoo
+        Dhq0HUTPNL+yP06uCp4DIGKJQuhfXoAU+vAAONMmq35u/qqdUvOmuueyCFzHnSXWj+A3WmXN70XRVYty
+        rUURn9l9DfhFn/gcyBr6yIVfvh9S2IpkyF3nmTTOn/fzR0V87nfejRNMi3BaWdnhzXQYKkaPmPg5PN8p
+        G4igOpj1d7z9YRnchopxjzb2S6Pr6uKqvYeJ2g9tPu/u7Orju8N/dFZ3Rn7Ns3kdwLecVV77bK/eDua4
+        wlfN+OdWWKWsZLpCg184byLU5VQkuQzSlHlLtxuyFerFYy9kD4FV7u5BUTp70OAXLSIJqTKuT27ieLbN
+        lkGLCPX9vVfmCbSWYZA3cbBcosFvuRHxwWbdGw/tkzexsiKJ46otdbO1C+572i1Gfotboe1hE9ynHyIX
+        lIm2UoVFzYTt8Vz1L9vheatDROQ7qzT4BVlJaM9jXdBQpfdxintoIFJ3KVPJW3/eY7NYWOuTiHHWFpW8
+        dbGbDH4nN82bpKqaJmnL2zdT9dGvK4I+LSG/bFa2uLpv0CHV8mmrB4iWMXeGOrTByG/Adnma5/L4tyln
+        oeyS7enmsriqZdFqCkSt7tDtV/3eh6fBrPDNcJisapXm7+AyOvgG+iG/I9geC+Kk6rqqkauBsMb/6Pcj
+        jB8M4wfD+MEwfjCMHwzjB8P4wTB+MIwfDOMHw/jBMH4wjB8M4wfD+MEwfjCMHwzjB8P4wTB+MIwfjN/v
+        96v/f93X93/1EjsFoNzvvQAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="textBox1.Text" xml:space="preserve">
+    <value>Karadeniz Bölgesi, ismini Karadeniz'den alan, Sakarya Ovası'nın doğusundan Gürcistan sınırına kadar uzanan Türkiye'nin yedi coğrafi bölgesinden biridir. Gürcistan, Doğu Anadolu Bölgesi, İç Anadolu Bölgesi, Marmara Bölgesi ve adını aldığı deniz ile komşudur. Türkiye'deki bölgeler arasında büyüklük bakımından üçüncü sırada yer almaktadır, ayrıca doğu batı genişliği ve yerel saat farkı en fazla olan bölgedir. Karadeniz Bölgesi’nin en büyük ve gelişmiş şehirleri sırasıyla 1.250.076 [1] nüfusuyla Samsun, ardından Trabzon ve Ordu'dur.
+
+Batı Karadeniz; Orta ve Doğu Karadeniz bölümünden daha düz olduğu için burada nüfus dağınık olarak serpilmiştir. Orta ve özellikle Doğu Karadeniz bölümünde ise engebe ve yükselti fazla olduğundan dolayı nüfus toplu olarak dağılmıştır.
+
+Bölümleri
+Batı Karadeniz Bölümü
+Batı Karadeniz Bölümü, Karadeniz Bölgesi'nin üç bölümünden, en batıda olanıdır. Kızılırmak deltasının batı kenarından başlayıp Adapazarı ve Bilecik'in doğusuna kadar uzanır. Bölüm genel olarak dağlıktır.
+
+Orman ürünleri ve ormancılık önemli gelir kaynağıdır. Bolu ve Düzce çevresinde çok sayıda kereste fabrikası bulunmaktadır. Zonguldak çevresi maden çıkarımı, Ereğli-Karabük çevresi maden işletmeleri ile Türkiye ekonomisine önemli katkıda bulunur. Batı Karadeniz'in en önemli katkısı ise maden çıkarma ve işleme alanındadır. Bölgenin önemli şehirlerinden birisi olan Karabük de giderek gelişimini sürdürmektedir.
+
+Özellikle son yıllarda Batı Karadeniz bölgesinin en önemli gelir kaynaklarından biri turizmdir. Bölgedeki Amasra, Kastamonu, Safranbolu, Ereğli, Eskipazar ve Bolu gibi turistik merkezler yerli ve yabancı turistlere alternatif turizm hizmetleri sunarak ekonomiye önemli katkı sağlamaktadır. Eskipazar'da Hadrinapolis antik kenti bulunmaktadır. Yağış miktarı 1500-1600 milimetre arasındadır.
+
+Orta Karadeniz Bölümü
+Orta Karadeniz Bölümü, Karadeniz Bölgesi'nin orta bölümüdür. Melet Çayı'ndan Sinop'un doğusuna kadar uzanır. Doğu Karadeniz Bölümü'ne göre güneye daha fazla sokularak Tokat ve Çorum illerinin büyük bölümleri ile Amasya ilinin tamamını içine alır.
+
+Yer şekilleri Doğu ve Batı Karadeniz'e oranla daha sadedir. Dağların yükseltisi azalmış ve dağlar içeriye çekilmiş durumdadır. Bunun sonucunda tarım alanları ve ulaşım çok gelişmiştir.
+
+Orta Karadeniz, Doğu Karadeniz'e nazaran en az yağış alan, kıyı ile iç kesim arasında farklılığın en az olduğu bölümdür. Yine de yağış boldur ve yağışlar her mevsime dengeli olarak dağıldığından kurak mevsim yoktur. Türkiye ekonomisine katkısı daha çok tarım alanındadır. Yağış miktarı 1000 milimetreye kadar çıkmaktadır. Dağları kıyıya paralel uzanır. Başlıca dağları Canik Dağları, Akdağ ve Kocadağ'dır.
+
+Bu bölümde tarım alanları daha çoktur. Yeşilırmak, Kızılırmak ve Kelkit Çayı'nın aşağı kesimleri buradadır. Kızılırmağın denize döküldüğü kesimde Bafra, Yeşilırmağın denize döküldüğü kesimde Çarşamba delta ovalarını oluşturmuşlardır. Ayrıca iç kesimlerde Suluova, Niksar, Erbaa,Zile ve Merzifon ovaları yer alır. Bu bölümde yağışlar doğu bölümüne göre daha azdır. Çünkü buradaki dağlar, doğudakiler kadar yüksek değildir. Denize etkisi iç kesimlere kadar sokulabilmektedir. Bu durum, kıyı ile iç kesimler arasındaki iklim farklılıklarının belirgin olmamasına neden olmuştur.
+
+Doğu Karadeniz Bölümü
+Doğu Karadeniz Bölümü, Karadeniz Bölgesi'nin en dağlık, en fazla yağış alan, bulutlanmanın ve nem oranının en fazla olduğu bölümdür.
+
+Bölgede en çok balıkçılık ve tarım yapılan bölümdür ve halk geçimini balıkçılık ve tarımdan kazanır. Ayrıca Karadeniz Bölgesi'nin en çok çay, fındık ve mısır yetiştirilen bölümüdür. Ulaşımın en zor, engebeli ve en çok göç veren bölümüdür. Tarım alanı kıyı şeridi boyunca dardır. Bölgenin engebeli olmasından dolayı makineleşme azdır.
+
+Rize, Artvin, Trabzon, Giresun, Ordu, Gümüşhane ve Bayburt önemli yerleşim merkezidir. Türkiye'de yaylacılık merkezi olan alpin çayırlıkların en güzel örnekleri Doğu Karadeniz Bölümü'nde, özellikle Rize çevresinde görülür. Ayder, Anzer, Çağırankaya yaylaları bunlara örnektir. Yıllık yağış oranı 2500 milimetreye kadar ulaşır.
+
+Bölgede eski adı "Şerah" olan bir krater gölü Uzungöl bulunur. Uzungöl yaklaşık 1000 metre uzunluğu, 500 metre eni ve ortalama 15 metre derinliğe sahip bir dağ gölüdür. Ormanlar arasında yer alan gölde alabalık yetiştirilir. Of'a olan uzaklığı yaklaşık 38 kilometredir ve Of'dan dolmuşlar bulunmaktadır. Yolun büyük kısmı asfalttır.
+
+Kıyı ile iç kesimler arasında iklim ve bitki örtüsü birbirinden tamamen farklıdır. Kıyı şeridinde tipik Karadeniz iklimi hüküm sürer. İç kesimlerde ise rakım ile doğru orantılı olarak nemli karasal iklim ve hatta mikro ölçekte tundra iklimi görülmekte, hava sıcaklığı -40 derecelere kadar düşebilmektedir.[2][daha iyi kaynak gerekli]
+
+Doğu Karadeniz Bölümü'nde işletilen en önemli yer altı zenginliği, Artvin yakınlarındaki Murgul'da bulunan bakır madenidir. Türkiye'de üretilen bakırın büyük bir kısmı bu bölümdeki yataklardan elde edilir. Çıkarılan bakır cevheri Murgul ve Samsun'daki fabrikalarda işlenir.
+
+Trabzon'daki Atatürk Köşkü, Giresun Kalesi, Doğu Karadeniz'deki tek ada olan mitolojik Giresun Adası (Aretias), Kümbet Yaylası ve Bektaş Yaylası, Maçka'daki Sümela Manastırı, Ordu Çambaşı Yaylası ve Boztepe ve her yıl düzenlenen yayla şenlikleri bölümün önemli turizm değerleridir.
+
+Doğu Karadeniz bölümü yaylaları ile dünyaya ismini duyurmuş bir destinasyonda yer alır. Bu bölgede Ayder yaylası, Pokut yaylası, Sal yaylası, Sis Dağı yaylası, Borçka Karagöl yaylası, Anzer yaylası, Kiraz yaylası, Kafkasör yaylası ve Perşembe yaylası her yıl yüz binlerce yerli ve yabancı turiste ev sahipliği yapar. Doğu Karadeniz'in yaylaları yüksek rakımı ve tertemiz havası ile Türkiye'nin en dikkat çekici yerlerindendir.
+
+Akarsu ve gölleri
+Akarsu açısından Türkiye'nin en zengin bölgelerinden birisi olup, Karadeniz Bölgesi'nden çıkan sular Karadeniz'e dökülmektedir. Türkiye'nin en uzun nehri Kızılırmak, bölgenin Orta Karadeniz bölümü kıyısında denize dökülmektedir. Orta Karadeniz bölümünün bir diğer önemli akarsuyu da Samsun ilinin Çarşamba ilçesinden Karadeniz'e dökülen Yeşilırmak'tır. Sakarya Nehri de Marmara Bölgesi sınırları içinde denize dökülmektedir.
+
+Çoruh Nehri, dünyanın en hızlı akan nehirlerinden biridir ve Artvin ilinin en büyük akarsuyudur. Bu illerdeki hemen hemen bütün çay ve dereler Çoruh’un kollarını oluştururlar.
+
+Kaynağını Mescid Dağı'nın batı yüzünden alır. Önce batı doğrultusunda akıp Bayburt ve İspir’den geçtikten sonra bir yay çizerek, Yusufeli'nin Yokuşlu köyü önünde Artvin il sınırlarına girer. Yusufeli, Artvin ve Borçka’nın içerisinden geçtikten sonra Borçka’nın Muratlı kasabasından geçerek burada il ve ülke sınırlarını terk eder ve Batum’da Karadeniz’e dökülür. Toplam uzunluğu 376 km'dir. Doğu Karadeniz bölgesindeki en önemli akarsulardan biri de Kelkit Çayıdır. Uzunluğu 320 km olan Kelkit Çayı, Sivas'ın Karadeniz bölgesindeki Akıncılar, Suşehri, Gölova, Koyulhisar ilçeleri ile, Giresun'un Şebinkarahisar, Alucra ve Çamoluk ilçelerinden geçerek Orta Karadeniz bölgesine ulaşarak vadiler aracılığı ile Karadeniz'e dökülür.
+
+Karadeniz Bölgesi sınırları içinde birçok doğal ve yapay göl vardır. Başlıca doğal göller Yeniçağa, Efteni ve Abant gölleridir.
+
+Karagöl, Şavşat ilçe merkezinin 48 km kuzeyinde yer almaktadır. Sahara Yaylası ise ilçe merkezine 17 km uzaklıktadır.
+
+Başlıca yapay göller Sarıyar, Çamlıdere ve Gökçekaya baraj gölleri ile Tortum, Sera, Abant, Yedigöller ve Zinav gölleridir. Giresun’un Dereli ilçesinde bulunan Mavi Göl masmavi rengiyle görenleri kendisine hayran bırakır. Ordu'nun Ulubey ilçesi Ohtamış köyünde bulunan Ohtamış Şelalesi 30 metre yüksekliğiyle Karadeniz'in en büyük şelalesidir. Bunlar dışında Karadeniz Bölgesi'nde fındık, çay, kivi gibi besinler çok üretilir. Bu da ülke ekonomisine katkıda bulunmaktadır. Fındık, sahil şeridi boyunca yetiştirilir. Yağ oranı ve besin değerleri açısından dünyanın en kaliteli fındığı Giresun ilinde yetiştirilir.
+
+Türkiye'nin kuzeyinde, Sakarya’nın doğusundan Gürcistan’a kadar Karadeniz’e paralel olarak bir şerit gibi uzanır.
+
+Yüzölçümü
+Gerçek alanı olan 122.121 km² ile Türkiye topraklarının %18’ini kaplar. Bölge doğu ve batı doğrultusunda 1400 km, kuzey ve güney doğrultusunda 100–200 km ile bir şeride benzer.
+
+Millî parklar
+Bölgedeki millî parklar; Kastamonu ve Bartın sınırları içinde kalan Küre Dağları Millî Parkı, Trabzon ilindeki Altındere Millî Parkı, Kastamonu ili ile Çankırı ili sınırları içerisinde yer alan Ilgaz Dağı Millî Parkı, Bolu ilinin Zonguldak iline komşu olduğu kesimde kurulan Yedigöller Millî Parkı ve büyük bir bölümü Rize ili Çamlıhemşin ilçesi, küçük bir bölümü de Artvin ili Yusufeli ilçesi sınırları içinde kalan Kaçkar Dağları Millî Parkı'dır. 51.500 hektarlık bir alanı kaplayan Kaçkar Dağları, 1994 yılında millî park ilan edilmiştir. Türkiye'deki 33 Millî Park alanından birisi olan Hatila Vadisi Millî Parkı sahası, merkez ilçe sınırları içerisindedir, Hatila Vadisi'ndeki Hatila Deresi ve birçok yan derelerini içerir. Karagöl Sahara Millî Parkı, Türkiye'deki 33 Millî Park alanından birisidir ve Artvin'in Şavşat ilçesi sınırları içerisinde yer almakta olup iki ayrı sahadan oluşur: Bunlar Karagöl ve Sahara Yaylası'dır.
+
+İklimi ve bitki örtüsü
+Kıyıda yıl boyu yağışlı ve ılıman Karadeniz iklimi görülür. Bu iklimin oluşmasının sebebi; Karadeniz'den gelen nemli hava kütlelerinin kıyıya paralel uzanan Kuzey Anadolu dağ yamaçlarına bol yağış bırakmasıdır. Türkiye'nin en yağışlı bölgesi olan Karadeniz'de yağışlar bir mevsimde yoğunlaşmamış, yıl geneline yayılmıştır. Karadeniz Bölgesi'nde yaz kuraklığı ve orman yangınları yaşanmaz. Nemlilik ve bulutlanmanın fazla olması nedeniyle yıllık ve günlük sıcaklık farkları en az bu bölgededir. Dağlar kıyıya paralel uzandığından, dağların gerisinde kalan iç kesimleri deniz etkisi altına alamamış ve iklim karasallaşmıştır ve kuraklaşmıştır. İç kesimlerde, rakım ile doğru orantılı olarak karasal iklim (Dsb), nemli karasal iklim (Dfb) ve mikro ölçekte tundra (ET) iklimi görülmektedir.[2][daha iyi kaynak gerekli] Bununla birlikte Orta Karadeniz bölümünde yükseltinin az olması, Kızılırmak ve Yeşilırmak Vadileri'nin varlığı, bu bölümde denizel etkinin vadi tabanlarından iç kesimleri sokulmasına sebep olur.
+
+Bölgenin doğal bitki örtüsü, kıyılarda nemlilik ve yağışın fazla olması sebebi ile geniş yapraklı gür ormanlardan oluşur. Türkiye ormanlarının %25'ini barındırır ve sahip olduğu ormanlar bakımından Türkiye'nin en çok orman olan bölgesidir.
+
+Ulaşım
+Eskiden deniz yolundan başka ulaşım olanağı olmayan Karadeniz Bölgesi, günümüzde ulaşım olanağı açısından gelişmiş bir düzeydedir. Birçok iskelesi de bulunan bölgenin başlıca limanları Zonguldak, Samsun ve Trabzon kentlerindedir. Zonguldak ve Samsun limanları birer demiryolu hattıyla Anadolu'nun iç kesimlerine bağlanır. Karadeniz kıyı yolu, bölgenin kıyı kesiminde yer alan birçok kenti birbirine bağlar. Bu yolun en doğusunda yer alan Sarp sınır kapısı, Türkiye ile Gürcistan arasındadır. Amasya, Trabzon, Ordu-Giresun, Tokat, Samsun, Zonguldak, Sinop ve Kastamonu'da havaalanları vardır.
+
+İller
+İl merkezleri temel alındığında, Karadeniz Bölgesi sınırları içinde yer alan 18 ili şunlardır:[3]
+
+Amasya
+Artvin
+Bartın
+Bayburt
+Bolu
+Çorum
+Düzce
+Gümüşhane
+Giresun
+Karabük
+Kastamonu
+Ordu
+Rize
+Samsun
+Sinop
+Tokat
+Trabzon
+Zonguldak</value>
+  </data>
+</root>
