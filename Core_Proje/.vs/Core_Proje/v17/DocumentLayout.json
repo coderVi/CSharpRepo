@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mrasm\\Desktop\\myProject\\Core_Proje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{346E3613-07B5-4D38-B812-741002458179}|..\\EntityLayer\\EntityLayer.csproj|c:\\users\\mrasm\\desktop\\myproject\\entitylayer\\concrete\\socialmedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346E3613-07B5-4D38-B812-741002458179}|..\\EntityLayer\\EntityLayer.csproj|c:\\users\\mrasm\\desktop\\myproject\\entitylayer\\concrete\\testimonial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346E3613-07B5-4D38-B812-741002458179}|..\\EntityLayer\\EntityLayer.csproj|c:\\users\\mrasm\\desktop\\myproject\\entitylayer\\concrete\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346E3613-07B5-4D38-B812-741002458179}|..\\EntityLayer\\EntityLayer.csproj|c:\\users\\mrasm\\desktop\\myproject\\entitylayer\\concrete\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346E3613-07B5-4D38-B812-741002458179}|..\\EntityLayer\\EntityLayer.csproj|c:\\users\\mrasm\\desktop\\myproject\\entitylayer\\concrete\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346E3613-07B5-4D38-B812-741002458179}|..\\EntityLayer\\EntityLayer.csproj|c:\\users\\mrasm\\desktop\\myproject\\entitylayer\\concrete\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346E3613-07B5-4D38-B812-741002458179}|..\\EntityLayer\\EntityLayer.csproj|c:\\users\\mrasm\\desktop\\myproject\\entitylayer\\concrete\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346E3613-07B5-4D38-B812-741002458179}|..\\EntityLayer\\EntityLayer.csproj|c:\\users\\mrasm\\desktop\\myproject\\entitylayer\\concrete\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346E3613-07B5-4D38-B812-741002458179}|..\\EntityLayer\\EntityLayer.csproj|c:\\users\\mrasm\\desktop\\myproject\\entitylayer\\concrete\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346E3613-07B5-4D38-B812-741002458179}|..\\EntityLayer\\EntityLayer.csproj|c:\\users\\mrasm\\desktop\\myproject\\entitylayer\\concrete\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SocialMedia.cs",
+              "DocumentMoniker": "C:\\Users\\mrasm\\Desktop\\myProject\\EntityLayer\\Concrete\\SocialMedia.cs",
+              "RelativeDocumentMoniker": "..\\EntityLayer\\Concrete\\SocialMedia.cs",
+              "ToolTip": "C:\\Users\\mrasm\\Desktop\\myProject\\EntityLayer\\Concrete\\SocialMedia.cs",
+              "RelativeToolTip": "..\\EntityLayer\\Concrete\\SocialMedia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T20:46:19.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Testimonial.cs",
+              "DocumentMoniker": "C:\\Users\\mrasm\\Desktop\\myProject\\EntityLayer\\Concrete\\Testimonial.cs",
+              "RelativeDocumentMoniker": "..\\EntityLayer\\Concrete\\Testimonial.cs",
+              "ToolTip": "C:\\Users\\mrasm\\Desktop\\myProject\\EntityLayer\\Concrete\\Testimonial.cs",
+              "RelativeToolTip": "..\\EntityLayer\\Concrete\\Testimonial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T20:45:50.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "C:\\Users\\mrasm\\Desktop\\myProject\\EntityLayer\\Concrete\\Skill.cs",
+              "RelativeDocumentMoniker": "..\\EntityLayer\\Concrete\\Skill.cs",
+              "ToolTip": "C:\\Users\\mrasm\\Desktop\\myProject\\EntityLayer\\Concrete\\Skill.cs",
+              "RelativeToolTip": "..\\EntityLayer\\Concrete\\Skill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T20:45:42.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\mrasm\\Desktop\\myProject\\EntityLayer\\Concrete\\Service.cs",
+              "RelativeDocumentMoniker": "..\\EntityLayer\\Concrete\\Service.cs",
+              "ToolTip": "C:\\Users\\mrasm\\Desktop\\myProject\\EntityLayer\\Concrete\\Service.cs",
+              "RelativeToolTip": "..\\EntityLayer\\Concrete\\Service.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T20:45:39.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Portfolio.cs",
+              "DocumentMoniker": "C:\\Users\\mrasm\\Desktop\\myProject\\EntityLayer\\Concrete\\Portfolio.cs",
+              "RelativeDocumentMoniker": "..\\EntityLayer\\Concrete\\Portfolio.cs",
+              "ToolTip": "C:\\Users\\mrasm\\Desktop\\myProject\\EntityLayer\\Concrete\\Portfolio.cs",
+              "RelativeToolTip": "..\\EntityLayer\\Concrete\\Portfolio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T20:45:34.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\mrasm\\Desktop\\myProject\\EntityLayer\\Concrete\\Message.cs",
+              "RelativeDocumentMoniker": "..\\EntityLayer\\Concrete\\Message.cs",
+              "ToolTip": "C:\\Users\\mrasm\\Desktop\\myProject\\EntityLayer\\Concrete\\Message.cs",
+              "RelativeToolTip": "..\\EntityLayer\\Concrete\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T20:45:30.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Feature.cs",
+              "DocumentMoniker": "C:\\Users\\mrasm\\Desktop\\myProject\\EntityLayer\\Concrete\\Feature.cs",
+              "RelativeDocumentMoniker": "..\\EntityLayer\\Concrete\\Feature.cs",
+              "ToolTip": "C:\\Users\\mrasm\\Desktop\\myProject\\EntityLayer\\Concrete\\Feature.cs",
+              "RelativeToolTip": "..\\EntityLayer\\Concrete\\Feature.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T20:45:26.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Experience.cs",
+              "DocumentMoniker": "C:\\Users\\mrasm\\Desktop\\myProject\\EntityLayer\\Concrete\\Experience.cs",
+              "RelativeDocumentMoniker": "..\\EntityLayer\\Concrete\\Experience.cs",
+              "ToolTip": "C:\\Users\\mrasm\\Desktop\\myProject\\EntityLayer\\Concrete\\Experience.cs",
+              "RelativeToolTip": "..\\EntityLayer\\Concrete\\Experience.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T20:45:21.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\mrasm\\Desktop\\myProject\\EntityLayer\\Concrete\\Contact.cs",
+              "RelativeDocumentMoniker": "..\\EntityLayer\\Concrete\\Contact.cs",
+              "ToolTip": "C:\\Users\\mrasm\\Desktop\\myProject\\EntityLayer\\Concrete\\Contact.cs",
+              "RelativeToolTip": "..\\EntityLayer\\Concrete\\Contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T20:45:13.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "About.cs",
+              "DocumentMoniker": "C:\\Users\\mrasm\\Desktop\\myProject\\EntityLayer\\Concrete\\About.cs",
+              "RelativeDocumentMoniker": "..\\EntityLayer\\Concrete\\About.cs",
+              "ToolTip": "C:\\Users\\mrasm\\Desktop\\myProject\\EntityLayer\\Concrete\\About.cs",
+              "RelativeToolTip": "..\\EntityLayer\\Concrete\\About.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T20:44:57.908Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
